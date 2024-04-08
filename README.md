@@ -1,4 +1,3 @@
-# E-BL2SH
 ## Environment setup
 - Python 3.8.13
 - Pytorch 2.0.0
