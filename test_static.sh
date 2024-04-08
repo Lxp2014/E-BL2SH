@@ -1,1 +1,1 @@
-CUDA_VISIBLE_DEVICES=0 python test_static.py --test_input /media/wh/22387B772691B5A3/lxp/PAMI/data_real/test_data/ --outputs_dir /media/wh/22387B772691B5A3/lxp/PAMI/results/EHDRI/ours_supervised_wo_left_right/ --which_epoch latest --how_many 20
+CUDA_VISIBLE_DEVICES=0 python test_real.py --test_input ../test_data/real/ --outputs_dir ../results/ --which_epoch latest --how_many 20
