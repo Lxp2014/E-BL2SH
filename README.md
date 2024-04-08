@@ -30,9 +30,10 @@ cd EBL2SH
 conda activate EBL2SH
 ```
 ### Test
-- Test on BL2SHD-S
+- Test on BEHDRD-S
 ```
 bash test_syn.sh
 ```
-- Test on BL2SHD-Rsimple
+- Test on BEHDRD-RG
 ```
+bash test_real.sh
